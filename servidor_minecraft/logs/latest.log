@@ -1,0 +1,40 @@
+[03:37:33] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[03:37:33] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[03:37:33] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[03:37:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:37:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[03:37:47] [main/INFO]: No existing world data, creating new world
+[03:37:49] [main/INFO]: Loaded 1470 recipes
+[03:37:49] [main/INFO]: Loaded 1584 advancements
+[03:37:49] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[03:37:49] [Server thread/INFO]: Loading properties
+[03:37:49] [Server thread/INFO]: Default game type: SURVIVAL
+[03:37:49] [Server thread/INFO]: Generating keypair
+[03:37:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:37:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:37:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:37:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:37:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:37:49] [Server thread/INFO]: Preparing level "world"
+[03:37:50] [Server thread/INFO]: Selecting global world spawn...
+[03:38:03] [Server thread/INFO]: Loading 0 persistent chunks...
+[03:38:03] [Server thread/INFO]: Preparing spawn area: 100%
+[03:38:03] [Server thread/INFO]: Time elapsed: 12977 ms
+[03:38:03] [Server thread/INFO]: Done (13.572s)! For help, type "help"
+[03:38:03] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[03:38:03] [Server thread/INFO]: <--[HERE]
+[03:38:06] [Server thread/INFO]: Stopping the server
+[03:38:06] [Server thread/INFO]: Stopping server
+[03:38:06] [Server thread/INFO]: Saving players
+[03:38:06] [Server thread/INFO]: Saving worlds
+[03:38:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:38:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:38:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:38:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:38:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:38:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:38:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
